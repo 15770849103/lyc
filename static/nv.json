@@ -1,0 +1,53 @@
+{
+	"banners":[
+		{	"id": "1",
+			"tite":"一分夺宝",
+			"src":"https://s17.mogucdn.com/mlcdn/c45406/171121_63687ac5h16b1cc4gh0g7b2j6ehc1_150x150.gif"
+		},
+		{
+			"id": "2",
+			"tite":"限时快抢",
+			"src":"https://s3.mogucdn.com/mlcdn/c45406/180105_5b03id78bg985518e232f9h0hc90f_250x250.gif"
+		},
+		{
+			"id": "3",
+			"tite":"省心套装",
+			"src":"https://s3.mogucdn.com/mlcdn/c45406/180402_0593275124kbafai3ka1k0l9k47d2_250x250.jpg"
+		},
+		{
+			"id": "4",
+			"tite":"热卖女鞋",
+			"src":"https://s3.mogucdn.com/mlcdn/c45406/180330_3hkk820c96ck1j0377k9cf9fc561h_250x250.jpg"
+		},
+		{
+			"id": "5",
+			"tite":"签到",
+			"src":"https://s3.mogucdn.com/mlcdn/c45406/171128_520075a1kdfcec662f0d1he68k06l_150x150.png"
+		},
+		{
+			"id": "6",
+			"tite":"当季热卖",
+			"src":"https://s3.mogucdn.com/mlcdn/c45406/180403_27ii7j7di688010a5h458idj8h3jk_250x250.gif"
+		},
+		{
+			"id": "7",
+			"tite":"裙装裤装",
+			"src":"https://s3.mogucdn.com/mlcdn/c45406/180404_7jdi20e32eha5bhdbiigk97hldd5b_250x250.jpg"
+		},
+		{
+			"id": "8",
+			"tite":"团购立省",
+			"src":"https://s17.mogucdn.com/mlcdn/c45406/180327_34ajkad3ff80jd7h1c3993f4jh5f8_250x250.jpg"
+		},
+		{
+			"id": "9",
+			"tite":"美妆个护",
+			"src":"https://s10.mogucdn.com/mlcdn/c45406/170606_3dkf2kh6jih8a7a2j932c1gj850d7_250x250.jpg"
+		},
+		{
+			"id": "10",
+			"tite":"潮流男装",
+			"src":"https://s3.mogucdn.com/mlcdn/c45406/180312_34kl80e6gg9fd7jcj5fllgd2ible7_120x120.jpg"
+		}
+	]
+}
