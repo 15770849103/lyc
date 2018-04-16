@@ -53,6 +53,7 @@
     	font-size: 0.14rem;
     	li{
     		display: flex;
+    		width: 25%;
     		flex-direction: column;
     		justify-content: center;
     		align-items: center;
